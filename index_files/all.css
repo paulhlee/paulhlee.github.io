@@ -1,0 +1,253 @@
+
+
+#menu {
+  font-family: 'Roboto', sans-serif;
+  background-color: #222;
+  border-color: #080808;
+  top: 0;
+  border-width:  0 0 100px;
+}
+#menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #222;
+}
+
+#menu li {
+  float: right;
+}
+
+
+#menu a:hover {
+  background-color: #111;
+}
+
+#menu div{
+  float: left;
+}
+
+a.in-menu {
+  display: block;
+  color: #9d9d9d;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 1.3em;
+}
+
+
+a.current-page {
+  display: block;
+  padding: 14px 16px;
+  text-align: center;
+  float: right;
+  color: white;
+  text-decoration: none;
+  font-size: 1.3em;
+}
+
+a.project{
+  color: #337ab7;
+
+}
+
+div.quote p{
+  font-size: 1.3em;
+  padding-left: 30px;
+  padding-right: 20px;
+  font-family: 'LeituraNews', serif;
+  font-style: italic;
+}
+
+div.about-container {
+  max-width: 50rem;
+  padding-top: 1rem;
+  /* padding: 5rem 1rem; */
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+div.project-container {
+  max-width: 60%;
+  padding-top: 1rem;
+  /* padding: 5rem 1rem; */
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+div.resume-container {
+  max-width: 50%;
+  padding-top: 1rem;
+  /* padding: 5rem 1rem; */
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+div.page{
+  font-family: 'LeituraNews', serif;
+}
+
+
+div.workExperience{
+  font-family: 'LeituraNews', serif;
+  padding-bottom: 10px;
+}
+
+
+div.date-text{
+  font-style: italic;
+  font-size: 1em;
+  float:left;
+  padding-top: 0.2em;
+}
+
+div.work-cited{
+font-style: italic;
+font-size: 0.8em;
+text-align: right;
+
+}
+h1{
+  font-weight: 500px;
+  font-size: 1.5em;
+  /* color: #999999; */
+
+
+}
+img.footer {
+  width: 32px;
+  height: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+
+img.about-img {
+  width: 330px;
+  margin-right: 50px;
+  float: left;
+  border-radius: 5px;
+  display: block;
+  max-width: 100%;
+
+}
+
+p.skills {
+  font-size: 2.0em;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+p.general {
+
+  font-size: 1.25em;
+}
+
+p.about-interest{
+  padding-top: 55px;
+  margin-bottom: 0px;
+  font-size: 1.5em;
+  font-weight: 500;
+  font-family: 'LeituraNews', serif;
+}
+
+p.listP{
+  margin-bottom: 0px;
+}
+
+p.work-entry{
+  display: block;
+  text-align: left;
+  padding-top: 0.5em;
+}
+
+span.rect{
+  font-size: 1em;
+}
+
+span.work-entry{
+  color: #191970;
+  margin-top: 10px;
+  display: block;
+  font-size: 1.1em;
+}
+
+ul.about-interest{
+  margin-top: 10px;
+  font-size: 1.25em;
+  font-family: 'LeituraNews', serif;
+}
+
+ul.project{
+  font-size: 1.25em;
+  font-family: 'LeituraNews', serif;
+}
+
+hr.line {
+  border-color: black;
+  padding: 0;
+  border-top: 4px solid;
+  text-align: center;
+  max-width: 250px;
+  margin: 10px auto 30px;
+}
+
+
+i {
+font-size: 40px;
+padding-left: 7px;
+padding-right: 7px;
+color: black;
+}
+footer{
+margin-top: 50px;
+text-align: center;
+
+}
+
+
+svg{
+  height: 8px;
+  width: 8px;
+}
+
+rect.py{
+  width: 10px;
+  height: 10px;
+  stroke: #00008B;
+  stroke-width: 1px;
+  fill: #00008B;
+}
+
+rect.jv{
+  width: 10px;
+  height: 10px;
+  stroke: #B8860B;
+  stroke-width: 1px;
+  fill: #B8860B;
+}
+
+rect.tb{
+  width: 10px;
+  height: 10px;
+  stroke: #1E90FF;
+  stroke-width: 1px;
+  fill: #1E90FF;
+}
+
+rect.r{
+  width: 10px;
+  height: 10px;
+  stroke: #00BFFF;
+  stroke-width: 1px;
+  fill: #00BFFF;
+}
