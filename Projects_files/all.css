@@ -227,13 +227,6 @@ rect.py{
   stroke-width: 1px;
   fill: #00008B;
 }
-rect.oc{
-  width: 10px;
-  height: 10px;
-  stroke: #f4bc42;
-  stroke-width: 1px;
-  fill: #f4bc42;
-}
 rect.jv{
   width: 10px;
   height: 10px;
@@ -256,4 +249,12 @@ rect.r{
   stroke: #00BFFF;
   stroke-width: 1px;
   fill: #00BFFF;
+}
+
+rect.oc{
+  width: 10px;
+  height: 10px;
+  stroke: #f4bc42;
+  stroke-width: 1px;
+  fill: #f4bc42;
 }
